@@ -52,10 +52,10 @@ Experimental ideas involving AI, surrealism, system philosophy, and digital iden
 ## LINKED SYSTEMS
 
 ### Main Operations Hub
-- [Plebware Control Center](../plebware/)
+- [Plebware Control Centre](https://plebware.github.io/Plebware/)
 
 ### Technical Core
-- [PlebMachine Core](../plebmachine/)
+- [PlebMachine Core](https://plebware.github.io/PlebMachine/)
 
 ---
 
