@@ -1,4 +1,4 @@
-# OTTO ARCHIVE
+# ✍️ OTHELLO VERROCCHIO ARCHIVE - OTTO ARCHIVE
 ---
 ## 🌐 Plebware Links | ⚙️ [🖥️ PlebMachine System Core](https://Plebware.github.io/PlebMachine/) | ✍️ [PlebMachine Core](https://Plebware.github.io/PlebMachine/)
 ---
