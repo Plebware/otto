@@ -68,21 +68,19 @@ One spends a lifetime working, fixing trains, solving electrical faults, maintai
 And yet…
 In the middle of all this noise, stress, debt, uncertainty, and exhaustion, there sits another document quietly waiting for me:
 
-# *My Goals.* 
-One-hundred and ten of them.
+# *My 110 Goals.* 
+Yes, you read it right, one-hundred and ten of them.
 Not fantasies.
 Not billionaire dreams.
 Not motivational-speaker nonsense shouted from a rented stage.
 
-Real goals.
+## Real goals.
 Goals built from survival.
 
 Goals born from decades of failure, rebuilding, adapting, learning, and refusing to completely collapse.
 
 Some people see a list.
-
 I see proof that somewhere inside me, hope is still breathing.
-
 Because hopeless men do not make plans.
 
 Hopeless men do not design Linux systems at two in the morning.
@@ -96,7 +94,7 @@ Hopeless men quit.
  *I have not quit.*
 *Not yet.* 
 
-The strange thing about having one-hundred and ten goals is that they begin revealing patterns.
+The strange thing about having 110 goals is that they begin revealing patterns.
 
 Many of them are not actually separate goals at all.
 
