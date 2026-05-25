@@ -11,7 +11,7 @@ This space contains:
 - Science fiction concepts
 - Development reflections
 - Personal writings
-- Devotionals
+- [Devotionals](devotions.md)
 - Experimental ideas
 - Creative worldbuilding
 - Technical observations
