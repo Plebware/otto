@@ -5,7 +5,7 @@ Devotions are archived in descending order
 ---
 # 2026
 ---
- ## May 2026
+ ## [May 2026](may-2026.md)
  ---
 🌅 New Mercies at the Prepaid Meter
 
