@@ -13,7 +13,7 @@ This space contains:
 - Science fiction concepts
 - Development reflections
 - Personal writings
-- [Devotionals](devotions.md)
+- [Devotionals](https://plebware.github.io/author/devotions/)
 - Experimental ideas
 - Creative worldbuilding
 - Technical observations
@@ -28,13 +28,13 @@ Written under identities including:
 
 ## ACTIVE ARCHIVES
 
-### Fiction
+### [Fiction](https://plebware.github.io/author/fiction/)
 Explorations into speculative technology, dystopian systems, AI, and human resilience.
 
-### [Devotionals](devotions.md)
+### [Devotionals](https://plebware.github.io/author/devotions/)
 Faith-centred writings, reflections, and spiritual observations.
 
-### Development Journals
+### [Development Journals](https://plebware.github.io/developer/plebmachine-tech-papers/)
 Thoughts and experiences from ongoing Linux and PlebMachine development.
 
 ### Creative Concepts
