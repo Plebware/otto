@@ -1,9 +1,6 @@
-# _config.yml for otto
-baseurl: "/PlebWaveFrontier"  # This is critical for project sites
+baseurl: "/otto"
 url: "https://plebware.github.io"
-title: PlebWare
-description: Publishing, Learning and Development
-header_image: /assets/images/header.jpg
+
 plugins:
   - jekyll-remote-theme
 
