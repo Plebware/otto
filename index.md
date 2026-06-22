@@ -11,6 +11,7 @@ title: Otto's Archive
 ## Writing • Reflection • Fiction • Documentation
 
 Welcome to the legacy and personal archive of **Otto Brinkmeier**.
+
 The Banner above has a rare image of **Otto aged 16** with his **present 63-year-old likeness** in the foreground 
 
 This space exists for:
