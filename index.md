@@ -3,21 +3,21 @@ layout: default
 title: Otto's Archive
 ---
 
-# ✍️ OTHELLO VERROCCHIO ARCHIVE - OTTO'S ARCHIVE
+# OTTO'S ARCHIVE
+----
+# ✍️ OTHELLO VERROCCHIO ARCHIVE 
 
+----
 ## Writing • Reflection • Fiction • Documentation
 
-Welcome to the literary and personal archive of Otto Brinkmeier.
+Welcome to the legacy and personal archive of **Otto Brinkmeier**.
+The Banner above has a rare image of **Otto aged 16** with his **present 63-year-old likeness** in the foreground 
 
-This space contains:
+This space exists for:
 
-- Science fiction concepts
-- Development reflections
+- A deeper look at the driving force behind PlebWare
+- A Dedicated About Otto Brinkmeier Section
 - Personal writings
-- [Devotionals](https://plebware.github.io/author/devotions/)
-- Experimental ideas
-- Creative worldbuilding
-- Technical observations
 
 Written under identities including:
 
@@ -38,10 +38,8 @@ Faith-centred writings, reflections, and spiritual observations.
 ### [Development Journals](https://plebware.github.io/developer/plebmachine-tech-papers/)
 Thoughts and experiences from ongoing Linux and PlebMachine development.
 
-### Creative Concepts
-Experimental ideas involving AI, surrealism, system philosophy, and digital identity.
 
----
+----
 
 ## CURRENT WRITING PROJECTS
 
