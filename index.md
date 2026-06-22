@@ -1,8 +1,9 @@
-# ✍️ OTHELLO VERROCCHIO ARCHIVE - OTTO'S ARCHIVE
 ---
 layout: default
-title: PlebMachine Core
+title: Otto's Archive
 ---
+
+# ✍️ OTHELLO VERROCCHIO ARCHIVE - OTTO'S ARCHIVE
 
 ## Writing • Reflection • Fiction • Documentation
 
