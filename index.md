@@ -1,3 +1,9 @@
+<div class="hero">
+
+    <img src="" alt="Header">
+
+</div>
+
 # ✍️ OTHELLO VERROCCHIO ARCHIVE - OTTO'S ARCHIVE
 ---
 layout: default
