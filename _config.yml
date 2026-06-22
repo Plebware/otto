@@ -1,6 +1,6 @@
 baseurl: "/otto"
 url: "https://plebware.github.io"
-
+ 
 plugins:
   - jekyll-remote-theme
 
