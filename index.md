@@ -5,6 +5,10 @@ title: Otto's Archive
 
 # OTTO'S ARCHIVE
 ----
+<!-- ===== PLEBWARE CONSOLE ===== -->
+{% include dashboard.html %}
+
+----
 # ✍️ OTHELLO VERROCCHIO ARCHIVE 
 
 ----
